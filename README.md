@@ -5,7 +5,7 @@
 [![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
 
 
-#### [See it Live](https://BugOfTime.github.io/valentine/)
+#### [See it Live](https://bugoftime.github.io/valentines/)
 
 ## Make your own version :computer:
 
